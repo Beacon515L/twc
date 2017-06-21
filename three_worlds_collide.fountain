@@ -1,0 +1,312 @@
+Title: _**"Three Worlds Collide"**_
+Credit: adapted as an opera by
+Author: Liam Greenough
+Source: from the work of Eliezer Yudkowsky
+Draft date: 2017-06-21
+Contact:
+    Liam Greenough
+    beacon515@gmail.com
+
+===
+
+>*DRAMATIS PERSONAE*<
+The Lady Sensory Dalia Ancromein
+The Lord Administrator Anamaferus Akon
+The Lord Programmer
+The Lord Pilot
+The Confessor
+The Lady Psychologist, later Xenopsychologist
+The Master of Fandom
+The Engineer
+Big Fucking Edward
+The Lady 3rd Kiritsugu
+Humans of Earth [Normal Ending Only?]
+THe President of the Huygens Central Clearinghouse [True Ending Only]
+
+===
+
+This is a story of an impossible outcome, where AI never worked, molecular nanotechnology never worked, biotechnology only sort-of worked; and yet somehow humanity not only survived, but discovered a way to travel Faster-Than-Light:  The past's Future.
+
+Ships travel through the Alderson starlines, wormholes that appear near stars.  The starline network is dense and unpredictable: more than a billion starlines lead away from Sol, but every world explored is so far away as to be outside the range of Earth's telescopes.  Most colony worlds are located only a single jump away from Earth, which remains the center of the human universe.
+
+From the colony system Huygens, the crew of the Giant Science Vessel Impossible Possible World have set out to investigate a starline that flared up with an unprecedented flux of Alderson force before subsiding.  Arriving, the Impossible discovers the sparkling debris of a recent nova - and -
+
+THE LADY SENSORY
+ALIENS!
+
+Every head swung toward the Sensory console.  But after that one cryptic outburst, the Lady Sensory didn't even look up from her console: her fingers were frantically twitching commands.
+
+There was a strange moment of silence in the Command Conference while every listener thought the same two thoughts in rapid succession:
+
+Is she nuts?  You can't just say "Aliens!", leave it at that, and expect everyone to believe you.  Extraordinary claims require extraordinary evidence -
+
+And then,
+
+They came to look at the nova too!
+
+
+In a situation like this, it befalls the Conference Chair to speak first.
+
+THE LORD ADMINISTRATOR AKON
+What? SHIT!
+
+He didn't realize until later that his words would be inscribed for all time in the annals of history.  Akon swung around and looked frantically at the main display of the Command Conference.
+
+AKON
+Where are they?
+
+The Lady Sensory looked up from her console, fingers still twitching. 
+
+SENSORY
+I - I don't know, I just picked up an incoming high-frequency signal - they're sending us *enormous* amounts of data, petabytes, I had to clear long-term memory and set up an automatic pipe or risk losing the whole -
+
+THE LORD PROGRAMMER
+*Found them!* I searched through our Greater Archive and turned up a program to look for anomalous energy sources near local starlines.  It's from way back from the first days of exploration, but I managed to find an emulation program for -
+
+AKON
+(taking a breath)
+*Just show it!*
+
+The main display swiftly scanned across fiery space and settled on... a set of windows into fire, the fire of space shattered by the nova, but then shattered again into triangular shards.
+
+It took Akon a moment to realize that he was looking at an icosahedron of perfect mirrors.
+
+Huh, thought Akon, they're lower-tech than us.  Their own ship, the Impossible, was absorbing the vast quantities of local radiation and dumping it into their Alderson reactor; the mirror-shielding seemed a distinctly inferior solution.  Unless that's what they want us to think...
+
+THE LORD PILOT
+(suddenly)
+*Deflectors!*
+(a beat)
+Should I put up deflectors?
+
+AKON
+(startled)
+Deflectors?
+
+PILOT
+(quickly)
+Sir, we use a self-sustaining Alderson reaction to power our starline jumps and our absorbing shields.  That same reaction could be used to emit a directed beam that would snuff a similar reaction - the aliens are putting out their own Alderson emissions, they could snuff our absorbers at any time, and the nova ashes would roast us instantly - unless I configure a deflector -
+
+CONFESSOR
+Have the aliens put up deflectors of their own?
+
+Akon's mind seemed to be moving very slowly, and yet the essential thoughts felt, somehow, obvious.
+
+AKON
+Pilot, set up the deflector program but don't activate it until I give the word.  Sensory, drop everything else and tell me whether the aliens have put up their own deflectors.
+
+Sensory looked up.  Her fingers twitched only briefly through a few short commands.
+
+SENSORY
+No.
+
+AKON
+(stiffly)
+Then I think that we should not be the first to put this interaction on a... combative footing.  The aliens have made a gesture of goodwill by leaving themselves vulnerable.  We must reciprocate.
+
+Surely, no species would advance far enough to colonize space without understanding the logic of the Prisoner's Dilemma...
+
+CONFESSOR
+You assume too much. They are aliens.
+
+PILOT
+Not much goodwill. The aliens' Alderson reaction is weaker than ours by an order of magnitude.  We could break any shield they could put up.  Unless they struck first.  If they leave their deflectors down, they lose nothing, but they invite us to leave our own down -
+
+AKON
+If they were going to strike first, they could have struck before we even knew they were here.  But instead they spoke.
+
+Surely, oh surely, they understand the Prisoner's Dilemma.
+
+PILOT
+Maybe they hope to gain information and *then* kill us. We have technology they want.  That enormous message - the only way we could send them an equivalent amount of data would be by dumping our entire Local Archive.  They may be hoping that we feel the emotional need to, as you put it, reciprocate -
+
+PROGRAMMER
+Hold on. I may have managed to translate their language.
+
+A beat. You could have heard a pin dropping from ten lightyears away.
+
+PROGRAMMER
+(smiling ever so slightly)
+ou see, that enormous dump of data they sent us - I think that was their Local Archive, or equivalent.  A sizable part of their Net, anyway.  Their text, image, and holo formats are utterly straightforward - either they don't bother compressing anything, or they decompressed it all for us before they sent it.  And here's the thing: back in the Dawn era, when there were multiple human languages, there was this notion that people had of statistical language translation.  Now, the classic method used a known corpus of human-translated text.  But there were successor methods that tried to extend the translation further, by generating semantic skeletons and trying to map the skeletons themselves onto one another.  And there are also ways of automatically looking for similarity between images or holos.  Believe it or not, there was a program already in the Archive for trying to find points of linkage between an alien corpus and a human corpus, and then working out from there to map semantic skeletons... and it runs quickly, since it's designed to work on older computer systems.  So I ran the program, it finished, and it's claiming that it can translate the alien language with 70% confidence.  Could be a total bug, of course.  But the aliens sent a second message that followed their main data dump - short, looks like text-only.  Should I run the translator on that, and put the results on the main display?
+
+AKON
+(absorbing this with some difficulty, then:)
+Yes.
+
+PROGRAMMER
+All right. Here goes machine learning.
+
+His fingers twitched once.
+
+Over the icosahedron of fractured fire, translucent letters appeared:
+
+!THIS VESSEL IS THE OPTIMISM OF THE CENTER OF THE VESSEL PERSON
+
+!YOU HAVE NOT KICKED US
+
+!THEREFORE YOU EAT BABIES
+
+!WHAT IS OURS IS YOURS, WHAT IS YOURS IS OURS
+
+The Command Conference erupts into laughter.
+
+AKON
+(absentmindedly)
+Stop that laughing, it's distracting.
+(pinching the bridge of his nose, then:)
+All right.  That doesn't seem completely random.  The first line... is them identifying their ship, maybe.  Then the second line says that we haven't opened fire on them, or that they won't open fire on us - something like that.  The third line, I have absolutely no idea.  The fourth... is offering some kind of reciprocal trade -
+
+The laughter stopped.
+
+PROGRAMMER
+Would you like to send a return message?
+
+Everyone looked at him.  Then everyone looked at Akon.
+
+Akon thought about that very carefully.  Total silence for a lengthy period of time might not be construed as friendly by a race that had just talked at them for petabytes.
+
+AKON
+All right.
+(clearing his throat, dictating:)
+We are still trying to understand your language.  We do not understand well.  We are trying to translate.  We may not translate correctly.  These words may not say what we want them to say.  Please do not be offended.  This is the research vessel named quote Impossible Possible World unquote.  We are pleased to meet you.  We will assemble data for transmission to you, but do not have it ready.
+(pausing, finished:)
+Send them that.  If you can make your program translate it three different plausible ways, do that too - it may make it clearer that we're working from an automatic program.
+
+The Lord Programmer twitched a few more times.
+
+PROGRAMMER
+(to SENSORY)
+Ready.
+
+SENSORY
+(to AKON)
+Are you really sure this is a good idea?
+
+AKON
+(sighing)
+No.  Send the message.
+
+For twenty seconds after, there was silence.  Then new words appeared on the display:
+
+!WE ARE GLAD TO SEE YOU CANNOT BE DONE
+
+!YOU SPEAK LIKE BABY CRUNCH CRUNCH
+
+!WITH BIG ANGELIC POWERS
+
+!WE WISH TO SUBSCRIBE TO YOUR NEWSLETTER
+
+AKON
+(after some time, relieved)
+All right. I expect a lot of people are eager to look at the alien corpus.  But I also need volunteers to hunt for texts and holo files in our own Archive.  Which don't betray the engineering principles behind any technology we've had for less than, say, a hundred years.  Just showing that it can be done... we won't try to avoid that, but don't give away the science...
+
+===
+
+A day later, the atmosphere at the Command Conference was considerably more tense.
+
+Bewilderment.  Horror.  Fear.  Numbness.  Refusal.  And in the distant background, slowly simmering, a dangerous edge of rising righteous fury.
+
+AKON
+First of all... First of all.  Does anyone have any plausible hypothesis, any reasonable interpretation of what we know, under which the aliens do not eat their own children?
+
+Then spoke the former Lady Psychologist, who was now, suddenly and abruptly, the lead Xenopsychologist of the ship, and therefore of humankind. 
+
+XENOPSYCHOLOGIST
+There is always the possibility of misunderstanding, But unless the entire corpus they sent us is a fiction... no.
+
+The alien holos showed tall crystalline insectile creatures, all flat planes and intersecting angles and prismatic refractions, propelling themselves over a field of sharp rocks: the aliens moved like hopping on pogo sticks, bouncing off the ground using projecting limbs that sank into their bodies and then rebounded.  There was a cold beauty to the aliens' crystal bodies and their twisting rotating motions, like screensavers taking on sentient form.
+
+And the aliens bounded over the sharp rocks toward tiny fleeing figures like delicate spherical snowflakes, and grabbed them with pincers, and put them in their mouths.  It was a central theme in holo after holo.
+
+The alien brain was much smaller and denser than a human's.  The alien children, though their bodies were tiny, had full-sized brains.  They could talk.  They protested as they were eaten, in the flickering internal lights that the aliens used to communicate.  They screamed as they vanished into the adult aliens' maws.
+
+Babies, then, had been a mistranslation:   Preteens would have been more accurate.
+
+Still, everyone was calling the aliens Babyeaters.
+
+The children were sentient at the age they were consumed.  The text portions of the corpus were very clear about that.  It was part of the great, the noble, the most holy sacrifice.  And the children were loved: this was part of the central truth of life, that parents could overcome their love and engage in the terrible winnowing.  A parent might spawn a hundred children, and only one in a hundred could survive - for otherwise they would die later, of starvation...
+
+When the Babyeaters had come into their power as a technological species, they could have chosen to modify themselves - to prevent all births but one.
+
+But this they did not choose to do.
+
+For that terrible winnowing was the central truth of life, after all.
+
+The one now called Xenopsychologist had arrived to the Huygens system with the first colonization vessel.  Since then she had spent over one hundred years practicing the profession of psychology, earning the rare title of Lady.  (Most people got fed up and switched careers after no more than fifty, whatever their first intentions.)  Now, after all that time, she was simply the Xenopsychologist, no longer a Lady of her profession.  Being the first and only Xenopsychologist made no difference; the hundred-year rule for true expertise was not a rule that anyone could suspend.  If she was the foremost Xenopsychologist of humankind, then also she was the least, the most foolish and the most ignorant.  She was only an apprentice Xenopsychologist, no matter that there were no masters anywhere.  In theory, her social status should have been too low to be seated at the Conference Table.  In theory.
+
+The Xenopsychologist was two hundred and fifty years old.  She looked much older, now, as as she spoke. 
+
+XENOPSYCHOLOGIST
+In terms of evolutionary psychology... I think I understand what happened.  The ancestors of the Babyeaters were a species that gave birth to hundreds of offspring in a spawning season, like Terrestrial fish; what we call r-strategy reproduction.  But the ancestral Babyeaters discovered... crystal-tending, a kind of agriculture... long before humans did.  They were around as smart as chimpanzees, when they started farming.  The adults federated into tribes so they could guard territories and tend crystal.  They adapted to pen up their offspring, to keep them around in herds so they could feed them.  But they couldn't produce enough crystal for all the children.
+It's a truism in evolutionary biology that group selection can't work among non-relatives.  The exception is if there are enforcement mechanisms, punishment for defectors - then there's no individual advantage to cheating, because you get slapped down.  That's what happened with the Babyeaters.  They didn't restrain their individual reproduction because the more children they put in the tribal pen, the more children of theirs were likely to survive.  But the total production of offspring from the tribal pen was greater, if the children were winnowed down, and the survivors got more individual resources and attention afterward.  That was how their species began to shift toward a k-strategy, an individual survival strategy.  That was the beginning of their culture.
+And anyone who tried to cheat, to hide away a child, or even go easier on their own children during the winnowing - well, the Babyeaters treated the merciful parents the same way that human tribes treat their traitors.
+They developed psychological adaptations for enforcing that, their first great group norm.  And those psychological adaptations, those emotions, were reused over the course of their evolution, as the Babyeaters began to adapt to their more complex societies.  Honor, friendship, the good of our tribe - the Babyeaters acquired many of the same moral adaptations as humans, but their brains reused the emotional circuitry of infanticide to do it.
+The Babyeater word for good means, literally, to eat children.
+
+The Xenopsychologist paused there, taking a sip of water.  Pale faces looked back at her from around the table.
+
+SENSORY
+I don't suppose... we could convince them they were wrong about that?
+
+The Ship's Confessor was robed and hooded in silver, indicating that he was there formally as a guardian of sanity. 
+
+CONFESSOR
+(gently)
+I don't believe that's how it works.
+
+XENOPSYCHOLOGIST
+Even if you could persuade them, it might not be a good idea.  If you convinced the Babyeaters to see it our way - that they had committed a wrong of that magnitude - there isn't anything in the universe that could stop them from hunting down and exterminating themselves.  They don't have a concept of forgiveness; their only notion of why someone might go easy on a transgressor, is to spare an ally, or use them as a puppet, or being too lazy or cowardly to carry out the vengeance.  The word for wrong is the same symbol as mercy, you see.
+(shaking her head)
+Punishment of non-punishers is very much a way of life, with them.  A Manichaean, dualistic view of reality.  They may have literally believed that we ate babies, at first, just because we didn't open fire on them.
+
+AKON
+Do you really think so?  Wouldn't that make them... well, a bit unimaginative?
+
+MASTER OF FANDOM
+I've been trying to read Babyeater literature. It's not easy, what with all the translation difficulties,
+(frowning at PROGRAMMER, who returns it)
+In one sense, we're lucky enough that the Babyeaters have a concept of fiction, let alone science fiction -
+
+PILOT
+Lucky? You've got to have an imagination to make it to the stars.  The sort of species that wouldn't invent science fiction, probably wouldn't even invent the wheel -
+
+FANDOM
+*But,* just as most of their science fiction deals with crystalline entities - the closest they come to postulating human anatomy, in any of the stories I've read, was a sort of giant sentient floppy sponge - so too, nearly all of the aliens their explorers meet, eat their own children.  I doubt the authors spent much time questioning the assumption; they didn't want anything so alien that their readers couldn't empathize.  The purpose of storytelling is to stimulate the moral instincts, which is why all stories are fundamentally about personal sacrifice and loss - that's their theory of literature.  Though you can find stories where the wise, benevolent elder aliens explain how the need to control tribal population is the great selective transition, and how no species can possibly evolve sentience and cooperation without eating babies, and even if they did, they would war among themselves and destroy themselves.
+
+XENOPSYCHOLOGIST
+Hm. The Babyeaters might not be too far wrong - stop staring at me like that, I don't mean it that way.  I'm just saying, the Babyeater civilization didn't have all that many wars.  In fact, they didn't have any wars at all after they finished adopting the scientific method.  It was the great watershed moment in their history - the notion of a reasonable mistake, that you didn't have to kill all the adherents of a mistaken hypothesis.  Not because you were forgiving them, but because they'd made the mistake by reasoning on insufficient data, rather than any inherent flaw.  Up until then, all wars were wars of total extermination - but afterward, the theory was that if a large group of people could all do something wrong, it was probably a reasonable mistake.  Their conceptualization of probability theory - of a formally correct way of manipulating uncertainty - was followed by the dawn of their world peace.
+
+SENSORY
+But then -
+
+XENOPSYCHOLOGIST
+Of course, anyone who departs from the group norm due to an actual inherent flaw still has to be destroyed.  And not everyone agreed at first that the scientific method was moral - it does seem to have been highly counterintuitive to them - so their last war was the one where the science-users killed off all the nonscientists.  After that, it was world peace.
+
+SENSORY
+Oh...
+
+XENOPSYCHOLOGIST
+Yes, after that, all the Babyeaters banded together as a single super-group that only needed to execute individual heretics.  They now have a strong cultural taboo against wars between tribes.
+
+FANDOM
+Unfortunately, that taboo doesn't let us off the hook.  You can also find science fiction stories - though they're much rarer - where the Babyeaters and the aliens don't immediately join together into a greater society.  Stories of horrible monsters who don't eat their children.  Monsters who multiply like bacteria, war among themselves like rats, hate all art and beauty, and destroy everything in their pathway.  Monsters who have to be exterminated down to the last strand of their DNA - er, last nucleating crystal.
+
+AKON
+I accept full responsibility for the decision to send the Babyeaters the texts and holos we did.  But the fact remains that they have more than enough information about us to infer that we don't eat our children.  They may be able to guess how we would see them.  And they haven't sent anything to us, since we began transmitting to them.  So the question then is - now what?
+
+[[Chapter 1 End Boundary, Chapter 2 Follows]]
+
+PILOT
+(in a frenzy)
+Put up shields.  Now.  We don't gain anything by leaving them down.  This is madness!
+
+CONFESSOR
+(calmly)
+No, not madness.
+
+PILOT
+(slamming his fists on the table)
+*We're all going to die!*
+
+
+

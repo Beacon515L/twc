@@ -1,0 +1,28 @@
+kesyblo = spaceship
+nol blosazri = lord ship pilot
+
+nol bloja'a = lord starship captain (administrator?)
+or
+nalzu'ica'i, nalzu'ifu'e - "unhindered authority, unhindered accountability"
+
+nol kensyzgna = lady observer (sensory)  zgana kensa
+lojysarxe = "they who are accordant with logic" (confessor)
+nol samtcifi'i = lord programmer
+mi'ircikre = engineer
+
+nol jgeterjo'eka'agau - lady kiritsugu (cut-bind, death-rebirth) - katna (jgena te jorne)
+or
+nol zbafagyfesgau (one who remakes from ashes)
+or
+nol nalzu'isarxe ("they who are accordant with unhinderance")
+
+terciduskepre - master of lore (literature)
+tarcija'a - star-system president
+
+
+kensa - k1 is space in region k2
+bloti - b1 is vessel for carrying b2 propelled by b3
+space-ship: kesyblo
+space-ship-pilot - kesyblo
+zgana - z1 observes z2 using z3 under conditions z4
+kensa zgana = z1 observes z2=k1

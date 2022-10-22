@@ -2,21 +2,24 @@ Title: Three Worlds Collide
 Credit: adapted as an opera by
 Author: Liam Walker-Greenough
 Source: from the work of Eliezer Yudkowsky
-Draft date: 2021-05-22
+Draft date: 2022-10-22
 Contact:
 	Liam Walker-Greenough
 	beacon515@gmail.com
 
 ===
 
-[[Top-level notes:
+>*DRAMATIS PERSONAE*<
   
-  My explicit intention is that all the roles can be played - and in particular sung - by persons of any gender with the requisite range.  My operational definitions for the trandiitonal vocal types are as follows (C4 is middle C):
+  My explicit intention is that all the roles can be played - and in particular sung - by persons of any gender with the requisite range.  My operational definitions for the traditional vocal types are as follows (C4 is middle C):
 
 TYPICALLY AFAB FACHS:
   * Soprano: C4-C6
   * Mezzo-soprano: A3-A5
   * Alto: F3-E5
+  ** Tiefer Alt: Eb3-D3
+  * Contralto Profundo: B2-A3
+  * Oktavistka: A2-A4
 
 TYPICALLY AMAB FACHS:
   * Sopranist: C4-C6
@@ -27,28 +30,30 @@ TYPICALLY AMAB FACHS:
 
 I will be writing for five ranges, which I will term as follows:
 * Soprano: C4-C6. Could be played by soprani or sopranists.
-* Alto: A3-E5. Could be played by mezzo-soprani, altos or counter-tenors.
-* Tenor: F3-A4. Could be played by altos or tenors.
-* Baritone: G2-F4.
-* Bass: E2-E4.
+* Alto: A3-E5. Could be played by mezzo-soprani, nominal altos, or counter-tenors.
+* Tenor: F3-A4. Could be played by nominal altos, or nominal tenors.
+* Baritone: B2-F4.  Could be played by nominal baritones, or contralti profundi.
+* Bass: A2-E4.  Could be played by nominal basses, or oktavistki.
+A distinction should be drawn between my terms for the ranges, which are theoretically gender-neutral and explicitly defined above, and the similar terms used in suggesting what traditional vocal types could play these roles, where I am making reference to the contemporary gendered operatic vocal types by way of pragmatic analogy.  Where my term and a traditional vocal type overlap in terms (e.g. my "alto" role could be played by an AFAB vocalist who is traditionally regarded as an "alto") I have prefixed the latter with "nominal" to deemphasize any inherent preference for cisgender vocalists.
 
 LE vs. LA:
-Most of the named characters are generally described in Lojban as (le <name>), i.e. "one-who-is-veridically-described-as <name>".  There are instances where this may shift to (la <name>), "one-whose-naming-predicate-but-not-necessarily-their-veridical-descriptionis <name>", and (lo <name>), "one-who-is-a-member-of-a-class-with-veridical-description <name>".  Persons customarily referred to with (le) may be alternately referred to by their descriptors with (la) for ironic effect.  Use of an actual personal name, as occurs with Akon, Dalia and Edward, necessarily uses (la).
+Most of the named characters are generally described in Lojban as (le <name>), i.e. "one-who-is-veridically-described-as <name>".  There are instances where this may shift to (la <name>), "one-whose-naming-predicate-but-not-necessarily-their-veridical-description-is <name>", and (lo <name>), "one-who-is-a-member-of-a-class-with-veridical-description <name>".  Persons customarily referred to with (le) may be alternately referred to by their descriptors with (la) for ironic effect.  Use of an actual personal name, as occurs with Akon, Dalia and Edward, necessarily uses (la).
   
-Within the culture I am conveying, (lo) and (le) are functionally interchangable, but (lo) makes a strong veridical commitment to the truth of the description, where as (le) acknowledges it merely as an idea.
+Within the culture I am conveying, (lo) and (le) are functionally interchangable, but (lo) makes a strong veridical commitment to the truth of the description, where as (le) merely makes a (possibly ironic) representation.  This is akin to the idiomatic usage of the indicative/subjunctive modes respectively in Latin.
 
-  ]]
 
->*DRAMATIS PERSONAE*<
-The Lady Sensory, Dalia Ancromein
+[[The Lady Sensory, Dalia Ancromein
 Mezzo-soprano. Glossed as "Madam Space-Watcher" (nol le kensyzgna). Personal name (la dalias.ankromein).
+Cut role. I am combining her with the Lady Psychologist (who will then be called Dalia Ancromein).]]
 
 The Lord Administrator, Anamaferus Akon
 Alto. Glossed as "Sir Ship-Leader" (nol le bloja'a). Personal name (la anamaferus.akon).
 "Administrator" is awkward to gloss and the only alternates are things like "chairman", which still gloss with rasfi from (jatna), "captain".
+Should appear (or be made to appear) the youngest person depicted in the entire cast by a significant margin (ideally, should appear childlike).
 
 The Lord Programmer
 Baritone.  Glossed as "Sir Programmer" (nol le samtcifi'i).
+Cut role.  I am combining him with the Lord Pilot to the necessary extent (and since I am curring the first scene and relating it differently, the role as good as no longer exists).
 
 The Lord Pilot
 Tenor. Glossed as "Sir Ship-Pilot" (nol le blosazri).
@@ -56,16 +61,19 @@ Tenor. Glossed as "Sir Ship-Pilot" (nol le blosazri).
 The Confessor
 Any vocal type except an alto, vocoded into a bass register - the restriction is necessary to make him acoustically distinct from Akon when unmasked. Glossed as "one accordant with logic" (le lojysarxe). Is later referred to by one of the names of the Lady 3rd Kiritsugu, "one accordant with unhinderance" (le nalzu'isarxe).
 
-The Lady Psychologist, later Xenopsychologist
+The Lady Psychologist, later Xenopsychologist, Dalia Ancromein
 Alto. Glossed first as "Lady Psychologist" (nol le mentadni) and then as "the-one-and-only alien-psychologist" (lo'i kesfangymentadni).
-The dropping of "Lady" (nol) is important, as is the change to (lo'i), "all-those-who-actually-are".
+The dropping of "Lady" (nol) is important, as is the change to (lo'i), "all-those-who-actually-are".  Personal name (la dalias.ankromein).
 I have taken a liberty glossing "[xeno]psychologist" in assuming that Yudkowsky means more of a researcher, which is (tadni), than a clinician, which is (mikce).  The closest thing we see to a clinical psychologist or counsellor on the Impossible Possible World is arguably the Confessor.
+In the original story, Dalia Ancromein is actually the Lady Sensory ("Madam Space-Watcher", nol le kensyzgna), whose role I have folded into the Lady Psychologist.
 
-The Master of Fandom
+[[The Master of Fandom
 Baritone. Glossed as "literature-person" (le terciduskepre).
+Cut role, folded into the Lady Psychologist.]]
 
-The Engineer
+[[The Engineer
 Tenor. Glossed as "engineer" (le mi'ircikre).
+Cut role, folded into the Lord Pilot.]]
 
 Big Fucking Edward
 Kabuki actor (aragoto role) - not an operatic vocal role.  Glossed as "big-mating Edward" (la bragle edward).
@@ -75,20 +83,66 @@ Any vocal type, vocoded into a soprano register. Glossed severally:
   * As "cutter-binder", a literal translation of the Japanese 'kiritsugu' (jgeterjo'eka'agau).
   * As "remaker-from-ashes", the Anglophonic metaphor for roughly the same (zbafagyfesgau).
   * As "one accordant with unhiderance", by her own description (nalzu'isarxe).
-  * As "recreator-from-death", the most literal and neutral interpretation of the English and Japanese metaphors. Gloss not yet dermined.
+  * As "remaker-from-death", the most literal and neutral interpretation of the English and Japanese metaphors (zbamrogau).
   * In all glosses, "Lady 3rd" is prepended (nol cimai le <name>).
+NB: "Kiritsugu" is almost certainly a reference to 衛宮 切嗣 (Kiritsugu Emiya) of Fate/stay night fame.  I suspect possibly EY's own intentions in describing the Lady 3rd and her sisters as "kiritsugu" was not to use the linguistic Japanese metaphor encoded in the name, but to relate to the character of that name in the visual novel.  I suspect Nasu Kinoko (FSN's author) DID, however, intend the metaphor when he named Kiritsugu in FSN, and the characterstics Nasu drew upon in selecting the name are almost certainly what drove EY to use the name as a reference.
+The reference to FSN as a work of great historical literature comparable to Shakespeare's Hamlet in the view of the humans depicted, set against the later use of that term by the Lady 3rd as a self-description, suggests to me we are to understand that the Lady 3rd appropriated a literary term as a descriptor to help the humans understand her role.
+My difficulty is that I do not think I can rely on FSN or its character of Kiritsugu to be widely understood enough as a literary reference, unless I directly explained it, which I am reluctant to do as it is inelegant (and I do not regard the at times cringeworthily indulgent references EY peppers TWC with as essential to what makes it compelling).
+I probably do need to study Kiritsugu's presentation in FSN to confirm that I broadly understand what is relevant about his character, but the happenstance of Nasu and I arriving at convergent nomenclatural metaphors which EY may have consciously or otherwise drawn upon in linking them in TWC is something I can lean on abstractly, without necessarily direct regard to FSN as a work of literature in its own right.
+If I do mean to directly reference FSN, I may do so more subtly (i.e. musically).
 
 Earthlings
-SATB choir.
+SATB choir of no particularly requisite disposition except that it be balanced.
 
 The President of the Huygens Central Clearinghouse
 Alto or Tenor. The Huygens Central Clearinghouse is glossed as "central market of Huygens star-system" (lo mijyzarci selstuzi tarci'e 'uegens); the President thereof is thus (le kagja'a lo mijyzarci selstuzi tarci'e 'uegens).
 
 The Impossible Possible World
-Is not a person, but a setting. The ship's name is glossed "a world which is both possible and impossible".
+Is not a person, but a setting. The ship's name is glossed verbatim (i.e. "impossible possible world" - la narcu'icu'imunje).
+
+===
+>*SCENARIOS*<
+ACT I
+The Lady (Xeno)Psychologist paces outside the chambers of the Lord Admnistrator, prevaricating as to whether to disturb him.  The Confessor approaches her, remarking that it is perfectly reasonable to be distressed on so significant a probability update as the discovery of intelligent extraterrestrial life, and negate much of what one previously thought one knew.  She counters that it is not what she does not know that she fears so much as what she has just now learned, and she does not know what should now be done.  The bridge is deadlocked; the Lord Pilot wants to destroy the aliens, and there is a case for doing so, but it is not so clear as that.
+
+The Confessor states that is the reason he is here, outside the Lord Administrator's quarters: he suspected she meant to resolve the deadlock by appealing to him to make a decision.  She admits this is the case; he agrees that is proper that the Lord Administrator be called upon to decide such a matter, but scolds her for summoning neither himself nor the Lord Pilot to make that case rationally.  She protests that unlike the Lord Pilot, she is not advocating a clear position; she does not know what to do.  The Confessor is skeptical, but as his role is a master rationalist, he agrees to allow her to present her case to the Lord Administrator, remaining there to moderate and ensure she fairly presents the Lord Pilot's case.
+
+They enter the Lord Administrator's quarters, which is a stasis chamber holding the relatively neotonous Lord Administrator, Anamferous Akon, in suspended animation except where required to make a major decision - this occuring seldomly, Akon has been asleep for most of the journey.  The Lady (Xeno)Psychologist and Confessor awaken him, and as he is brought up to speed on the current position of the ship, she begins to make her case.
+
+The Lady (Xeno)Psychologist has translated much of the aliens' literature, and discovered that their references to eating babies were not misunderstood or even metaphorical - literally, they regard winnowing their offspring as both normal and an absolute moral imperative - their very brains are hardwired by evolution to represent this as the height of virtue.  There are untold billions of juvenile aliens suffering from what is to humans an abominable custom and waste of life.  The aliens even think comparable acts by humans (e.g. Hitler) are at least superficially virtuous.
+
+The Confessor makes the Lady (Xeno)Psychologist acknowledge this is all her own interpretation, and nobody other than her has studied the psychology of the aliens in any great depth, since they have been newly discovered.  The Lady (Xeno)Psychologist explains that this is why though she has earned the distinction of being called the Lady Psychologist, and while she is the first and foremost Xenopsychologist, she is also the least and newest, and with how emergent the field now is, certainty is unobtainable - only progressively refined probability estimates. [[This would be a reasonable juncture to very briefly explain Bayesian inference sufficiently to serve later narrative purposes.]]
+
+Their ship is more powerful, and could destroy the aliens, and then proceed on a crusade of intervening and hopefully rehabilitating the juveniles to mould them into a species more compatible with human values.  At some point, though, she is made to wonder if doing this would not make the humans just as if not more culpable than the aliens themselves; she also has to wonder that since the aliens evolved to be this way naturally, and always have been, if they can even be regarded as culpable.
+
+The Lord Administrator takes all of this on consideration with difficulty, and then dismisses the Lady (Xeno)Psychologist to confer with the Confessor alone.
+
+[[Elaboration notes: Content of the Conference scene, but with the tone of the Interlude with the Confessor, proceeds.
+
+The text messages from the Babyeaters should be displayed alongside dialup email messages, to convey the relative technical inferiority of the Babyeaters (to later contrast with the Superhappies).
+
+The completely superfluous rape legalization references are to be deleted; EY is on record that their purpose is to fit within the theme of 'othering' the futuristic humans as utopically libertarian, which to me makes it entirely gratuitous and not worth preserving in any wise (this will be the same for the several much more graphic instances in the 'True Ending' chapter).]]
+
+As Akon and the Confessor speak, an alert summons to the bridge: a second, *different* alien ship, has appeared, and there is a situation on the bridge requiring his presence.  They depart at once.
+
+ACT II
+On the bridge, the Lord Pilot holds command, and there is a standoff.  A strange, flamboyantly dressed being has appeared in the centre of the bridge, who invites the bridge officers to dance with him.  They all wordlessly decline, clearly intimidated.  Frustrated, the being loudly demands to speak to the most powerful person on the ship.
+Akon and the Confessor arrive; Akon introduces himself and hesitantly declares that he is in charge of the ship.  The being enthusiatically introduces itself as Big Fucking Edward, and that he is in charge of the new ship, which is significantly more powerful than either the first aliens' (the Babyeaters) or the humans'.  He is delighted to have also discovered intelligent alien life, and literally asks to be Akon's friend.
+
+[[Elaboration notes: The scene with Edward broadly proceeds as written.]]
+
+The apparition of Edward disappears, screaming and flailing, leaving the bridge in a state of shock and limbo.  A new incoming message is heard, and as it is accepted, a new apparition appears: a smaller, colder-seeming being, who introduces herself as the Lady 3rd Kiritsugu.
+
+[[Elaboration notes: The first scene with the Lady 3rd Kiritsugu broadly proceeds as written, but directly runs on to the second, with the destruction of the Babyeaters and the Lord Pilot's mutiny.  Curtain on the sound of a gunshot, but it is not clear whether the Confessor shot Akon or the Lord Pilot.]]
+
+ACT III
+
+
+
 
 ===
 
 # ACT I
 
-INT. CONFERENCE ROOM OF THE IMPOSSIBLE POSSIBLE WORLD #I-1#
+INT. ASTRAL OBSERVATORY OF THE IMPOSSIBLE POSSIBLE WORLD #I-1#
+
